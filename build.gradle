@@ -12,7 +12,7 @@ repositories {
 }
 
 dependencies {
-    testCompile group: 'junit', name: 'junit', version: '4.12' //mõlemad testCompile kirjapildid lubatud
+    testCompile group: 'junit', name: 'junit', version: '4.12' //both testCompile writing styles are allowed
     testCompile 'com.codeborne:selenide:5.1.0'
-    // lisatud kommentaar
+    // added comment
 }
